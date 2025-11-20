@@ -77,8 +77,8 @@ Nossa arquitetura é moderna, escalável e distribuída. Utilizamos o conceito d
       <img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql" alt="Mysql" />
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Palitoo">
-        <img src="https://github.com/Palitoo.png" width="100px;" alt=""/><br />
+      <a href="https://github.com/4b5r">
+        <img src="https://github.com/4b5r.png" width="100px;" alt=""/><br />
         <sub><b>Palito</b></sub>
       </a><br />
       <strong>Especialista Discord & Infra</strong><br/><br/>
